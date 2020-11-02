@@ -4,4 +4,4 @@ MyStat nodeJS API (ITSTEP) https://mystat.itstep.org/
 
 Run
 
-npm install msapi
+```npm install msapi```
