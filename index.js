@@ -7,7 +7,7 @@
 
 var https = require('https');
 
-class msAPI {
+class msapi {
     
     constructor() {
         this.versionAPI = 2;
@@ -299,4 +299,4 @@ class msAPI {
     
 }
 
-module.exports = new msAPI();
+module.exports = new msapi();
