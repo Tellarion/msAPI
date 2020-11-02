@@ -1,4 +1,7 @@
-# msAPI
-NodeJS module REST-API (for itstep)
+# msapi
+
+MyStat nodeJS API (ITSTEP) https://mystat.itstep.org/
+
+Run
 
 npm install msapi
