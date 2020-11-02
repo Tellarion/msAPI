@@ -1,0 +1,25 @@
+{
+  "name": "msapi",
+  "version": "1.0.6",
+  "description": "MyStat nodeJS API (ITSTEP) https://mystat.itstep.org/",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tellarion/msapi.git"
+  },
+  "author": "Tellarion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tellarion/msapi/issues"
+  },
+  "homepage": "https://github.com/Tellarion/msapi#readme",
+  "keywords": [
+    "mystat",
+    "msapi",
+    "json",
+    "itstep",
+    "tellarion"
+  ]
+}
